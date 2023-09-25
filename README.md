@@ -16,7 +16,7 @@ The model architecture comprises convolutional layers for feature extraction, re
 
 ## Usage
 
-The main Jupyter notebook is `Captcha_OCR.ipynb`. To use the code:
+The main Jupyter notebook is [Captcha_OCR.ipynb](https://github.com/EVOL-ution/Captcha-Recognition-using-CRNN/blob/main/Captcha_OCR.ipynb). To use the code:
 
 1. Install dependencies: tensorflow, matplotlib, etc.
 2. Run the notebook cells sequentially to:
